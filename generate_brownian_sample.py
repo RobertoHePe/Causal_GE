@@ -1,4 +1,4 @@
-from pyfuncs.utils import generate_brownian_sample
+from pyfuncs.data_transform import generate_brownian_sample
 import numpy as np
 import networkx as nx
 
