@@ -5,6 +5,18 @@ Differential expression and co-expression analysis, pathway analysis, and dimens
 As a result, we obtain sets of differentially expressed genes and enriched pathways, which are assumed to underly the main biological processes in the system under study.  
 In the present paper, we revisit gene-expression data by looking at it from a causal perspective.  
 
+# To-Do
+- [ ] Test generate brownian sample
+- [ ] Add GE notebook
+- [ ] Add initial genes to figure 3 and larger font
+- [ ] Manual draw normal concept graph
+- [ ] Make table with spop, foxa1, and idh1 markers 
+- [ ] Make text for code data aviability
+- [ ] Search for PTP genes in cluster 2
+- [ ] Add sample ID to samples in tables
+- [ ] Table of dysregulated genes (isn't this the sample table?)
+- [ ] Check dysregulated genes or nodes in minimal cancer sample
+  
 # Repository sections
 ### Data
 This folder includes all data files that are not generated as a result of our analyses, including the graph file and files to map between nodes and
