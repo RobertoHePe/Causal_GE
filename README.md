@@ -16,6 +16,7 @@ In the present paper, we revisit gene-expression data by looking at it from a ca
 - [ ] Add sample ID to samples in tables
 - [ ] Table of dysregulated genes (isn't this the sample table?)
 - [ ] Check dysregulated genes or nodes in minimal cancer sample
+- [ ] Create generate Brownian sample script
   
 # Repository sections
 ### Data
