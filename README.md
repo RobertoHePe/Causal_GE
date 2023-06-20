@@ -15,3 +15,6 @@ Folder to allocate all files resulting from our analysis, excluding charts.
 
 ### Charts
 Contains every generated figure 
+
+### pyfuncs
+Utility functions
