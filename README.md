@@ -9,7 +9,8 @@ In the present paper, we revisit gene-expression data by looking at it from a ca
 [2]-Sipko van Dam, Urmo Võsa, Adriaan van der Graaf, Lude Franke, João Pedro de Magalhães. Gene co-expression analysis for functional classifi7
 cation and gene–disease predictions. Briefings in Bioinformatics, Volume 19, Issue 4, 2018, Pages 575–592. https://doi.org/10.1093/bib/bbw139  
 [3]-Emmert-Streib F, Glazko GV (2011). Pathway Analysis of Expression Data: Deciphering Functional Building Blocks
-of Complex Diseases. PLoS Comput Biol 7(5): e1002053. https://doi.org/10.1371/journal.pcbi.1002053
+of Complex Diseases. PLoS Comput Biol 7(5): e1002053. https://doi.org/10.1371/journal.pcbi.1002053  
+[4]-Jake Lever, Martin Krzywinski, and Naomi Altman. Principal component analysis. Nature Methods, 14(7):641–642, 2017. https://www.nature.com/articles/nmeth.4346  
 
 # Repository sections
 ### Data
