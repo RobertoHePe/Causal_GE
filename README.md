@@ -7,15 +7,15 @@ In the present paper, we revisit gene-expression data by looking at it from a ca
 
 # To-Do
 - [ ] Test generate brownian sample
-- [ ] Add GE notebook
-- [ ] Add initial genes to figure 3 and larger font
+- [X] Add GE notebook
+- [ ] Add initial genes to Figure 3 and a larger font
 - [ ] Manual draw normal concept graph
-- [ ] Make table with spop, foxa1, and idh1 markers 
-- [ ] Make text for code data aviability
+- [ ] Make a table with pop, foxa1, and idh1 markers 
+- [ ] Make text for code data availability
 - [ ] Search for PTP genes in cluster 2
 - [ ] Add sample ID to samples in tables
 - [ ] Table of dysregulated genes (isn't this the sample table?)
-- [ ] Check dysregulated genes or nodes in minimal cancer sample
+- [ ] Check dysregulated genes or nodes in the minimal cancer sample
 - [ ] Create generate Brownian sample script
   
 # Repository sections
