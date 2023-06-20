@@ -1,5 +1,5 @@
 # Causal_GE
-This is the official repository associated to the paper **Reanalyzing gene-expression data from a causal perspective**
+This is the official repository associated to the paper ***Reanalyzing gene-expression data from a causal perspective***
 
 Differential expression and co-expression analysis, pathway analysis, and dimensional reduction techniques are usual ways of processing gene expression data.
 As a result, we obtain sets of differentially expressed genes and enriched pathways, which are assumed to underly the main biological processes in the system under study.  
