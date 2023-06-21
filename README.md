@@ -15,7 +15,7 @@ The paper is based on the construction of the causal network described by J.P. G
 - [ ] Search for PTP genes in cluster 2
 - [ ] Add sample ID to samples in tables
 - [ ] Table of dysregulated genes (isn't this the sample table?)
-- [ ] Check dysregulated genes or nodes in the minimal cancer sample
+- [X] ~~Check dysregulated genes or nodes in the minimal cancer sample~~
 - [ ] Create generate Brownian sample script
   
 # Repository sections
