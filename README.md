@@ -7,11 +7,11 @@ The paper is based on the construction of the causal network described by J.P. G
 
 # To-Do
 - [ ] Test generate brownian sample
-- [X] Add GE notebook
+- [X] ~~Add GE notebook~~
 - [ ] Add initial genes to Figure 3 and a larger font
 - [ ] Manual draw normal concept graph
 - [ ] Make a table with pop, foxa1, and idh1 markers 
-- [ ] Make text for code data availability
+- [X] ~~Make text for code data availability~~
 - [ ] Search for PTP genes in cluster 2
 - [ ] Add sample ID to samples in tables
 - [ ] Table of dysregulated genes (isn't this the sample table?)
