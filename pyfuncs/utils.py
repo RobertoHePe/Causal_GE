@@ -55,7 +55,8 @@ def load_genes_map(filename):
     return genes_map
 
 
-
+def map_node_name(node, nodes_map, genes_map):
+    return([genes_map[gen] for gen in nodes_map[node]])
 
 if __name__ == "__main__":
     pass
