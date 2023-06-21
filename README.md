@@ -1,9 +1,9 @@
 # Causal_GE
 This is the official repository associated to the paper ***Reanalyzing gene-expression data from a causal perspective***
 
-Differential expression and co-expression analysis, pathway analysis, and dimensional reduction techniques are usual ways of processing gene expression data.
-As a result, we obtain sets of differentially expressed genes and enriched pathways, which are assumed to underly the main biological processes in the system under study.  
-In the present paper, we revisit gene-expression data by looking at it from a causal perspective.  
+Differential expression and co-expression analysis, pathway analysis, and dimensional reduction techniques are usual ways of processing gene expression data. As a result, we obtain sets of differentially expressed genes and enriched pathways, which are assumed to underly the main biological processes in the system under study.  In the present paper, we revisit gene-expression data by looking at it from a causal perspective. In particular, we examine TCGA gene expression data for prostate adenocarcinoma (PRAD). 
+
+The paper is based on the construction of the causal network described by J.P. Gomez in his Diploma Thesis. Gabriel Gil acts as thesis advisor.  
 
 # To-Do
 - [ ] Test generate brownian sample
