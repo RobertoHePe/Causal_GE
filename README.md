@@ -6,17 +6,17 @@ Differential expression and co-expression analysis, pathway analysis, and dimens
 The paper is based on the construction of the causal network described by J.P. Gomez in his Diploma Thesis. Gabriel Gil acts as thesis advisor.  
 
 # To-Do
-- [X] ~~~Test generate brownian sample~~~
-- [X] ~~Add GE notebook~~
-- [X] ~~~Add initial genes to Figure 3 and a larger font~~~
+- [X] Test generate brownian sample
+- [X] Add GE notebook
+- [X] Add initial genes to Figure 3 and a larger font
 - [ ] Manual draw normal concept graph
 - [ ] Make a table with pop, foxa1, and idh1 markers 
-- [X] ~~Make text for code data availability~~
+- [X] Make text for code data availability
 - [ ] Search for PTP genes in cluster 2
 - [ ] Add sample ID to samples in tables
 - [ ] Table of dysregulated genes (isn't this the sample table?)
-- [X] ~~Check dysregulated genes or nodes in the minimal cancer sample~~
-- [X] ~~~Create generate Brownian sample script~~~
+- [X] Check dysregulated genes or nodes in the minimal cancer sample
+- [X] Create generate Brownian sample script
   
 # Repository sections
 ### Data
