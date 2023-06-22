@@ -10,4 +10,8 @@ if __name__ == "__main__":
     Graph = nx.read_adjlist(
         "Data/gene_network.adjlist", create_using=nx.DiGraph, nodetype=int
     )
-    generate_brownian_sample(sample=sample, Graph=Graph)
+    np.savetxt(
+        "result_files/brownian_sample.txt.gz",
+        generate_brownian_sample(sample=sample, Graph=Graph),
+        fmt="%i",
+    )
