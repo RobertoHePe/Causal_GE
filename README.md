@@ -21,6 +21,10 @@ The paper is based on the construction of the causal network described by J.P. G
 - [ ] Eliminar Dysregulated_genes.pdf
 - [ ] Generar fig1 como density plot
 - [ ] Renombrar fig2. En el eje y contar nodos
+- [ ] Eliminar indgr_freq.pdf
+- [ ] Eliminar frequency_clusters.pdf
+- [ ] Renombrar fig3. Anadir un panel con la dependencia causal
+- [ ] Ver como hariamos la fig4
   
 # Repository sections
 ### Data
