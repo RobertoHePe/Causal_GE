@@ -17,6 +17,10 @@ The paper is based on the construction of the causal network described by J.P. G
 - [ ] Table of dysregulated genes (isn't this the sample table?)
 - [X] Check dysregulated genes or nodes in the minimal cancer sample
 - [X] Create generate Brownian sample script
+- [ ] Eliminar Childless_frequencies.pdf
+- [ ] Eliminar Dysregulated_genes.pdf
+- [ ] Generar fig1 como density plot
+- [ ] Renombrar fig2. En el eje y contar nodos
   
 # Repository sections
 ### Data
