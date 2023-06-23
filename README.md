@@ -19,7 +19,6 @@ The paper is based on the construction of the causal network described by J.P. G
 - [X] Create generate Brownian sample script
 - [X] Eliminar Childless_frequencies.pdf
 - [X] Eliminar Dysregulated_genes.pdf
-- [ ] Generar fig1 como density plot
 - [X] Renombrar fig2. En el eje y contar nodos
 - [X] Eliminar indgr_freq.pdf
 - [X] Eliminar frequency_clusters.pdf
