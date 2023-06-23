@@ -24,8 +24,8 @@ The paper is based on the construction of the causal network described by J.P. G
 - [ ] Ver como hariamos la fig4 
 - [ ] Hacer seccion Tables y poner ahi las 4 tablas supplementarias
   - [X] Tabla I
-  - [ ] Tabla II
-  - [ ] Tabla III
+  - [X] Tabla II
+  - [X] Tabla III
   - [ ] Tabla IV
 
   
