@@ -9,7 +9,7 @@ The paper is based on the construction of the causal network described by J.P. G
 - [X] Test generate brownian sample
 - [X] Add GE notebook
 - [X] Add initial genes to Figure 3 and a larger font
-- [ ] Manual draw normal concept graph
+- [x] Manual draw normal concept graph
 - [ ] Make a table with pop, foxa1, and idh1 markers 
 - [X] Make text for code data availability
 - [ ] Search for PTP genes in cluster 2
@@ -20,13 +20,15 @@ The paper is based on the construction of the causal network described by J.P. G
 - [X] Renombrar fig2. En el eje y contar nodos
 - [X] Eliminar indgr_freq.pdf
 - [X] Eliminar frequency_clusters.pdf
-- [ ] Renombrar fig3. Anadir un panel con la dependencia causal
-- [ ] Ver como hariamos la fig4 
-- [ ] Hacer seccion Tables y poner ahi las 4 tablas supplementarias
+- [X] Renombrar fig3. Anadir un panel con la dependencia causal
+- [X] Ver como hariamos la fig4 
+- [X] Hacer seccion Tables y poner ahi las 4 tablas supplementarias
   - [X] Tabla I
   - [X] Tabla II
   - [X] Tabla III
-  - [ ] Tabla IV
+  - [X] Tabla IV
+- [ ] Add otdegree brownians to samle table
+- [ ] Try desicion trees on clusters
 
   
 # Repository sections
