@@ -12,7 +12,7 @@ The paper is based on the construction of the causal network described by J.P. G
 - [x] Manual draw normal concept graph
 - [ ] Make a table with pop, foxa1, and idh1 markers 
 - [X] Make text for code data availability
-- [ ] Search for PTP genes in cluster 2
+- [X] Search for PTP genes in cluster 2
 - [X] Check dysregulated genes or nodes in the minimal cancer sample
 - [X] Create generate Brownian sample script
 - [X] Eliminar Childless_frequencies.pdf
@@ -30,6 +30,7 @@ The paper is based on the construction of the causal network described by J.P. G
 - [ ] Add otdegree brownians to samle table
 - [ ] Try desicion trees on clusters
 - [X] Larger fig4 labels and change yticks
+- [X] Do table names switch and push
 
   
 # Repository sections
