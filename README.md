@@ -29,6 +29,7 @@ The paper is based on the construction of the causal network described by J.P. G
   - [X] Tabla IV
 - [ ] Add otdegree brownians to samle table
 - [ ] Try desicion trees on clusters
+- [X] Larger fig4 labels and change yticks
 
   
 # Repository sections
