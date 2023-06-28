@@ -27,7 +27,7 @@ The paper is based on the construction of the causal network described by J.P. G
   - [X] Tabla II
   - [X] Tabla III
   - [X] Tabla IV
-- [ ] Add otdegree brownians to samle table
+- [X] Add otdegree brownians to samle table
 - [ ] Try desicion trees on clusters
 - [X] Larger fig4 labels and change yticks
 - [X] Do table names switch and push
@@ -42,7 +42,10 @@ gene names/ESEMBL ids
 Folder to allocate all files resulting from our analysis, excluding charts.
 
 ### Charts
-Contains every generated figure 
+Contains every generated figure included in the paper
 
 ### pyfuncs
-Utility functions
+Python utility functions
+
+### Supplementary Materials
+Tables included as supplementary materials in the paper (May be redundtant with others files in Data and result_files)
