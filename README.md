@@ -10,7 +10,7 @@ The paper is based on the construction of the causal network described by J.P. G
 - [X] Add GE notebook
 - [X] Add initial genes to Figure 3 and a larger font
 - [x] Manual draw normal concept graph
-- [ ] Make a table with pop, foxa1, and idh1 markers 
+- [X] Make a table with pop, foxa1, and idh1 markers 
 - [X] Make text for code data availability
 - [X] Search for PTP genes in cluster 2
 - [X] Check dysregulated genes or nodes in the minimal cancer sample
