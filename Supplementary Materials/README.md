@@ -22,4 +22,4 @@
    - **Cluster**: Associated cluster
    - **Other columns**: Deregulation state for the 15 genes included in the normal panel: *CFAP65,CDKN1C,AC245100.2,AC008764.8,LRATD2,AL137186.2,TRIM2,AL022332.1,MADCAM1,U3,AC012213.3,ENSG00000264976,OAT,AC007000.2,DNPH1*
   
-4. **Table IV**: Discretized values of gene expression data for PRAD obtained from the Cancer Genome Atlas (TCGA)
+4. **Table IV**: Discretized values of expression data for PRAD. Rows represent nodes and columns the samples.
