@@ -5,33 +5,7 @@ Carcinogenesis is one example of transition between two biological states involv
 
 The paper is based on the construction of the causal network described by J.P. Gomez in his Diploma Thesis and the construction of perfect panels of genes for cancer outlined in https://www.biorxiv.org/content/10.1101/2022.07.25.501449v2.  
 
-# To-Do
-- [X] Test generate brownian sample
-- [X] Add GE notebook
-- [X] Add initial genes to Figure 3 and a larger font
-- [x] Manual draw normal concept graph
-- [X] Make a table with pop, foxa1, and idh1 markers 
-- [X] Make text for code data availability
-- [X] Search for PTP genes in cluster 2
-- [X] Check dysregulated genes or nodes in the minimal cancer sample
-- [X] Create generate Brownian sample script
-- [X] Eliminar Childless_frequencies.pdf
-- [X] Eliminar Dysregulated_genes.pdf
-- [X] Renombrar fig2. En el eje y contar nodos
-- [X] Eliminar indgr_freq.pdf
-- [X] Eliminar frequency_clusters.pdf
-- [X] Renombrar fig3. Anadir un panel con la dependencia causal
-- [X] Ver como hariamos la fig4 
-- [X] Hacer seccion Tables y poner ahi las 4 tablas supplementarias
-  - [X] Tabla I
-  - [X] Tabla II
-  - [X] Tabla III
-  - [X] Tabla IV
-- [X] Add otdegree brownians to samle table
-- [X] Larger fig4 labels and change yticks
-- [X] Do table names switch and push
 
-  
 # Repository sections
 ### Data
 This folder includes all data files that are not generated as a result of our analyses, including the graph file and files to map between nodes and
